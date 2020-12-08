@@ -1,5 +1,5 @@
-h1 {
+.redtext {
     color: red;
     font-weight: bold;
-    font-size: 50%;
+    font-size: 100%;
 }
