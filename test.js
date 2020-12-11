@@ -9,7 +9,7 @@ while (s!= "test")
 s=prompt("please enter your password");
 if (s=="test")
 {
-window.location.href="/files"; //page to redirect if password entered is correct
+window.location.href="/files/showimages.html"; //page to redirect if password entered is correct
 
 }
 else
