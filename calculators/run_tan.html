@@ -3,4 +3,8 @@
 <p>Enter a number, then it will find the tangent of that number</p>
 <p>This tool is not intended for cheating on your math tests.</p>
 <p>I am not responsible if that happens to you.</p>
-<script src="tan.js"></script>
+<script>
+  var n = prompt("Enter a number to find the tangent of")
+  var answer = Math.tan(n);
+  alert(`The tangent of ${n} is${answer}`)
+</script>
