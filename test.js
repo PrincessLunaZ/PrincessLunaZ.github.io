@@ -4,10 +4,10 @@ function myFunction() {
 function getPassword() {
 	var s ="";
 
-while (s!= "PrincessRarity45!")
+while (s!= "test")
 {
 s=prompt("please enter your password");
-if (s=="test")
+if (s=="PrincessRarity45!")
 {
 window.location.href="/files/showimages.html"; //page to redirect if password entered is correct
 
