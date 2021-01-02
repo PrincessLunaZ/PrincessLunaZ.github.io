@@ -4,7 +4,7 @@ function myFunction() {
 function getPassword() {
 	var s ="";
 
-while (s!= "test")
+while (s!= "PrincessRarity45!")
 {
 s=prompt("please enter your password");
 if (s=="test")
