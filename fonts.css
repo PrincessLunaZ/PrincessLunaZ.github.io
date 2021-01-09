@@ -1,0 +1,18 @@
+p.serif {
+  font-family: "Times New Roman",
+serif;
+}
+p.sansserif {
+  font-family: Helvetica, Arial,
+sans-serif;
+}
+p.monospace {
+  font-family: "Courier New", Courier,
+monospace;
+}
+p.cursive {
+  font-family: Florence, cursive;
+}
+p.fantasy {
+  font-family: Blippo, fantasy;
+}
