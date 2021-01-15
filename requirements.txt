@@ -1,0 +1,4 @@
+discord.py
+arcade
+numpy
+pygame
