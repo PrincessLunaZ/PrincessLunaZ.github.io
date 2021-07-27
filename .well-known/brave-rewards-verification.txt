@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: princesslunaz.github.io
+Token: 0fe04bf25e5ea3f45df7683e103cef7c2fba328f2c79793cc5ebc4c5d0689c43
