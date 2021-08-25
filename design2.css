@@ -1,0 +1,13 @@
+div {
+  border: 5px solid blue;
+  width: 90px;
+  height: 90px;
+}
+a.first {
+  border: 5px solid orange;
+  min-height: 100px;
+}
+a.second {
+  border: 5px solid green;
+  max-width: 100px;
+}
