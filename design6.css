@@ -1,0 +1,7 @@
+body {
+  background-image:
+    url("https://princesslunaz.github.io/download.jpg");
+  background-repeat: no-repeat;
+  /* Possible values: fixed, scroll, inherit*/
+  background-attachment: fixed;
+}
