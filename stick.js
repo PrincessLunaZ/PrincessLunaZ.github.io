@@ -1,7 +1,7 @@
-var result = confirm("Do you want to leave this page?");
+var result = confirm("What are you doing?");
 if (result == true) {
-  alert("Thanks for visiting");
+  alert("No! Stay!");
 }
 else {
-  alert("Thanks for staying on this page.");
+  alert("Good boy.");
 }

@@ -1,6 +1,8 @@
 function myFunction() {
     alert("You clicked submit! Eventually, this will do something else.")
 }
+
+//NOT WORKING, NEEDS TO BE FIXED
 //function getPassword() {
 //	var s ="";
 //
