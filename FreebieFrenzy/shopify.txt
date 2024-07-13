@@ -1,7 +1,3 @@
-/f firstday.com
-/f vibrantpublishers.com
-/f raadshop.com
-/f redmapleflowers.com
 /f sgcarsmarket.com
 /f shop.ccalliance.org
 /f themensstore.net
