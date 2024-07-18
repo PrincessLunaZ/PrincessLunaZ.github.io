@@ -1,4 +1,3 @@
-/f kind.community
 /f nerdzcafe.com
 /f shopitiswella.com
 /f terrycosta.com
