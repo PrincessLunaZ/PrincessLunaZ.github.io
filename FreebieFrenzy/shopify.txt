@@ -1,4 +1,3 @@
-/f sessiongoods.com
 /f marigoldpopcorn.com
 /f jewishbox.com
 /f fandiem.com
