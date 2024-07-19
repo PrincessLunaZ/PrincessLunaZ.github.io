@@ -1,6 +1,3 @@
-/f gastownsupplyco.com
-/f claddtech.com
-/f skyfoxgames.com
 /f ondo.com
 /f 54d-onlinestore.us
 /f blackdragongames.net
