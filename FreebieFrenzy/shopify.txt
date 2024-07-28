@@ -1,11 +1,7 @@
-/f midstatesbranding.com
-/f mannersldn.com
-/f redroosterfabrics.com
 /f shop.happylivingph.com
 /f couturemontcalm.com
 /f klothoinc.com
 /f nevanude.com
-/f absoluteespresso.com
 /f gglehi.com
 /f forheavensake.com
 /f shieldeck.com
